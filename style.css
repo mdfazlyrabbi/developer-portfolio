@@ -9,3 +9,29 @@ h1{
 #Name{
     color: orange;
 }
+
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img{
+    width: 110%;
+}
+
+.paragraph{
+    text-align: justify;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
