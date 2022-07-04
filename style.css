@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 h1{
@@ -23,7 +24,7 @@ section{
     width: 110%;
 }
 
-.paragraph{
+.paragraph {
     text-align: justify;
 }
 
@@ -35,3 +36,9 @@ section{
     color: white;
     font-weight: 700px;
 }
+
+.top-section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+    
